@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
       <header>
-        <div className="top-strip">
+        <div className="top-strip py-2 ">
           <div className="container">
             <div className="flex-items-center justify-between">
               <div className="col1 w-[50%]">
